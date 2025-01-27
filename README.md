@@ -132,6 +132,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
+- [Typemill](https://typemill.net/)
 
 ## Mockup
 
@@ -364,4 +365,5 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [How to write a basic how-to](https://www.redhat.com/sysadmin/howto-write-howto)
 - [How to write a README](https://www.redhat.com/sysadmin/how-write-readme)
+- [The Good Docs Project](https://www.thegooddocsproject.dev/)
 - [Words matter](https://www.acm.org/diversity-inclusion/words-matter)
